@@ -2,7 +2,7 @@
 #configuration
 server.port=8081
 spring.jpa.hibernate.ddl-auto=update
-spring.datasource.url=jdbc:mysql://database-1.cobegv9b6mue.ap-south-1.rds.amazonaws.com:3306/batch11
+spring.datasource.url=jdbc:mysql://database-2.cobegv9b6mue.ap-south-1.rds.amazonaws.com:3306/batch11
 spring.datasource.username=admin
 spring.datasource.password=adminadmin
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
